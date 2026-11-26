@@ -3,7 +3,7 @@ import placeholderimg from "../assets/Sapo Pixel no Atendimento Sem Fundo 1.svg"
 export default function ContactUsSection(){
 
     return(
-        <section className="flex flex-col w-full p-10">
+        <section className="flex flex-col w-full p-10 gap-10">
             
             <h1 className="border-l-4 border-[#76FD00] uppercase text-[36px] pl-4 text-[#FEFFFE]"> contate nos </h1>
 

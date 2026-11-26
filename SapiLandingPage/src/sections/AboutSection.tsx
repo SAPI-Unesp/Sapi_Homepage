@@ -4,7 +4,7 @@ import bg_content_start from "../assets/image 28.png"
 export default function AboutSection(){
     
     return(
-        <section className="flex flex-col w-full p-10">
+        <section className="flex flex-col w-full p-10 gap-10">
             
             <h1 className="border-l-4 border-[#76FD00] uppercase text-[36px] pl-4 text-[#FEFFFE]"> um pouco sobre nós </h1>
 

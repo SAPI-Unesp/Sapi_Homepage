@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Pedro da Costa Sorge",
+    "nickname": "Sorge",
+    "phrase": "Melhor eu ir tchau",
+    "description": "Viciado em crises existenciais e Valorant. Em busca dos 70kg...",
+    "photo_path": "/image_member_plchdr.png",
+    "links": [
+      "https://www.github.com",
+      "https://www.linkedin.com",
+      "https://www.instagram.com"
+    ]
+  },
+  {
+    "name": "Lucas Andrade",
+    "nickname": "Andradão",
+    "phrase": "Funciona na minha máquina",
+    "description": "Sobrevivendo a café frio, bugs às 23h e partidas ranqueadas que duram mais que o esperado.",
+    "photo_path": "/image_member_plchdr.png",
+    "links": [
+      "https://www.github.com",
+      "https://www.linkedin.com"
+    ]
+  },
+  {
+    "name": "Mariana Oliveira",
+    "nickname": "Mari",
+    "phrase": "Só mais um detalhe no CSS",
+    "description": "Apaixonada por interfaces limpas, tipografia e alinhamento perfeito. Nunca confia em centralização de primeira.",
+    "photo_path": "/image_member_plchdr.png",
+    "links": [
+      "https://www.github.com",
+      "https://www.linkedin.com",
+      "https://www.instagram.com"
+    ]
+  },
+  {
+    "name": "Rafael Mendes",
+    "nickname": "Rafa",
+    "phrase": "Vou ler a documentação depois",
+    "description": "Tentando equilibrar projetos, treinos na academia e maratonas de séries sem dormir quatro horas por noite.",
+    "photo_path": "/image_member_plchdr.png",
+    "links": [
+      "https://www.github.com",
+      "https://www.instagram.com"
+    ]
+  },
+  {
+    "name": "Beatriz Silva",
+    "nickname": "Bia",
+    "phrase": "Se compilou sem warning, desconfie",
+    "description": "Curiosa por arquitetura de sistemas, automação e qualquer coisa que economize cliques repetitivos no dia a dia.",
+    "photo_path": "/image_member_plchdr.png",
+    "links": [
+      "https://www.github.com",
+      "https://www.linkedin.com",
+      "https://www.instagram.com"
+    ]
+  },
+  {
+    "name": "Thiago Costa",
+    "nickname": "Thi",
+    "phrase": "Pausa rápida de 10 minutos",
+    "description": "Entre playlists de lo-fi, testes de performance e ideias anotadas em rascunhos que viram projetos no fim de semana.",
+    "photo_path": "/image_member_plchdr.png",
+    "links": [
+      "https://www.linkedin.com"
+    ]
+  }
+]
